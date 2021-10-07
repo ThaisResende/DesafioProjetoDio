@@ -1,0 +1,16 @@
+Aprendi sobre as utlidades de ambos e diferença e tambem sobre comandos como : Git init= serve para iniciar o progama 
+ls -a = mostrar pasta oculta 
+cd =serve para navegar ate uma pasta 
+ls - serve para lista o intens dentro de uma pasta
+
+aprendi a importancia de ter um github e como ele e utilizado por muitos dev
+
+###Qual a vantagem de usar o Git?
+Para programadores(as) que utilizam o GIT, reincluir a funcionalidade é uma tarefa simples: basta buscar, em seu repositório, a versão que a contempla e retomá-la.
+
+Para aqueles(as) que não utilizam, talvez seja necessário reescrever o código desta função, consumindo novamente o tempo gasto para desenvolvê-la da primeira vez.
+
+Diante desta situação, podemos concluir que uma das maiores vantagens de usar o GIT é a economia de tempo e recursos, uma vez que a consulta de diferentes versões de uma mesma
+aplicação é muito recorrente no trabalho do(a) programador(a).
+
+Outro grande benefício do GIT é justamente o fato de ele ser um sistema distribuído.
