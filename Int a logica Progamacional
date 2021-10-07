@@ -1,0 +1,36 @@
+ Oque e logica?
+   E uma coerencia de racicionio de ideias .
+
+-Metacognição?
+   Pensar como você pensa
+
+- Algoritmo?
+  É uma sequencia de passos que resolve problemas 
+
+-Pseucodigo?
+  Forma generica de escrever um algoritmo usando uma linguagem simples
+
+-fluxograma?
+  è uma ferramenta usada para representar graficamente o algoritmo ,isto é a sequência logica e coerente do fluxo de dados.
+
+- Oque são variaveis ?
+   é um objeto capaz de reter e representar um valor ou expresão e existe quatros tipo 1-númerica 2-caracteres 3-alfanumericas 4-logica
+
+-O que e uma constante ?
+  são valores imudaveis que não podem ser alterados durante a vida util do progama.
+  
+  Tudo o que fazemos segue uma sequência lógica.Quer ver?
+  Quando perguntam como tomamos nosso café, a maioria de nós responde que, ao acordarmos, preparamos o café com auxílio de uma cafeteira elétrica, colocamos ele em uma caneca e o tomamos.
+
+Mas, ao destrinchar este processo, somos capazes de estipular uma sequência de passos que nos levaram ao ato final de beber este café. Esta sequência pode ser:
+
+Ao acordar, levanto da cama;
+Após levantar da cama, desço as escadas;
+Após descer as escadas, entro na cozinha;
+Após entrar na cozinha, pego o pó de café no armário;
+Após pegar o pó de café, o coloco dentro da cafeteira;
+Após colocar o pó na cafeteira, jogo água no compartimento específico;
+Após inserir todos os ingredientes na máquina, aperto o botão de ligar;
+Quando o café está pronto, pego a garrafa;
+Após pegar a garrafa, despejo o café dentro de uma caneca;
+Após colocar o café na caneca, bebo o café.
