@@ -22,7 +22,6 @@ ul: define uma lista não ordenada
 li: define um elemento ou item da lista não ordenada
 a: define um link que deve ser apontado com o atributo href
 img: define a utilização de uma imagem (JPG, GIF, PNG e outras). A imagem deve ser apontada com o uso do atributo src
-strong: apesar de deixar em negrito, representa a importância deste texto no meio da frase
 
   ##Estrutura simples
   <!DOCTYPE html>
